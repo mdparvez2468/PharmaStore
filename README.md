@@ -3,3 +3,12 @@
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/67409313/211042502-2014e26a-a1a5-4780-87bd-3543a8005f4e.png)
+
+## Using Components
+1. Language: XLM, Java & Kotlin.
+2. Database: Firebase Realtime Database.
+3. Material Design
+4. Navigation Component
+5. MVVM Architecture Component
+6. View Model & Live Data
+
