@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "255539131444",
+    "firebase_url": "https://internship-projects-ab58c-default-rtdb.firebaseio.com",
+    "project_id": "internship-projects-ab58c",
+    "storage_bucket": "internship-projects-ab58c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255539131444:android:b46ce530983676457f4661",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255539131444-tjb86pnkbles8p1lkkfjt0utd1ent5n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASctkbady8zW1MRWtt7s7MPStkftxvTqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255539131444-tjb86pnkbles8p1lkkfjt0utd1ent5n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255539131444:android:e0ebf6f2a77612997f4661",
+        "android_client_info": {
+          "package_name": "com.example.pharmastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255539131444-tjb86pnkbles8p1lkkfjt0utd1ent5n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASctkbady8zW1MRWtt7s7MPStkftxvTqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255539131444-tjb86pnkbles8p1lkkfjt0utd1ent5n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
